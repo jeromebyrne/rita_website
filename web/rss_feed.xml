@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>jeromebyrne.com</title>
+    <link>http://newwebsite.jeromebyrne.com</link>
+    <description>Testing RSS feed functionality</description>
+    <language>en-gb</language>
+    <managingEditor>jeromebyrne21@hotmail.com</managingEditor>
+    <webMaster>jeromebyrne21@hotmail.com</webMaster>
+    <copyright>jeromebyrne.com</copyright>
+    <item>
+      <title>Deathleak test RSS feed</title>
+      <pubDate>Tue, 11 Mar 2014 00:28:31 -0700</pubDate>
+      <category>Video Games</category>
+      <description><![CDATA[Testing deathleak RSS update]]></description>
+    </item>
+  </channel>
+</rss>
